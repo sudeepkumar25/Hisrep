@@ -1,0 +1,16 @@
+
+public class School {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Room ru= null;
+		
+		public School(Room ru){
+			this.ru= ru;
+		}
+		
+      School sc= new School();
+      
+	}
+
+}
