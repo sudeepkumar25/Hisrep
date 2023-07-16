@@ -8,6 +8,9 @@ public class Room {
 	}
 	public void yes(){
 		System.out.println("yhi hai encapsulation");
+		System.out.println(" encapsulation");
+		System.out.println("jo yhi hai encapsulation");
+		System.out.println(babu encapsulation");
 	}
 
 }
